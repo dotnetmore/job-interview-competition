@@ -52,5 +52,15 @@ run.notepad();
 for (byte i = byte.MaxValue; i >= 0; i--)
     Console.WriteLine(i);
 ```
-
-
+- Что не так с этим методом контроллера?
+```csharp
+[HttpGet("test")]
+public async Task<string> Test()
+{
+    using (var wc = new HttpClient())
+    {
+        return await wc.GetStringAsync("https://github.com/dotnetmore/job-interview-competition");
+    }
+}
+```
+- Сделай на async/await deadlock (https://twitter.com/SanSYS/status/1134445700689932288). Можно просто словами, на примере http-запроса )
