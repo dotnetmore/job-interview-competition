@@ -1,0 +1,15 @@
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.deps.json
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.dll
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.pdb
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.csproj.CoreCompileInputs.cache
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfoInputs.cache
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfo.cs
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.dll
+D:\temp\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.pdb
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.deps.json
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.dll
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\bin\Debug\netcoreapp2.1\CalculateArea.pdb
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.AssemblyInfo.cs
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.dll
+C:\Users\SC9152\Downloads\Net-Core-master\.Net-Core-master\CalculateArea_CoreLibr\CalculateArea_CoreLibr\obj\Debug\netcoreapp2.1\CalculateArea.pdb
