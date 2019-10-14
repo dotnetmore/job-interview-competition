@@ -1,0 +1,13 @@
+D:\temp\Memento\Memento\bin\Debug\Memento.exe.config
+D:\temp\Memento\Memento\bin\Debug\Memento.exe
+D:\temp\Memento\Memento\bin\Debug\Memento.pdb
+D:\temp\Memento\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+D:\temp\Memento\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+D:\temp\Memento\Memento\obj\Debug\Memento.exe
+D:\temp\Memento\Memento\obj\Debug\Memento.pdb
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\bin\Debug\Memento.exe.config
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\bin\Debug\Memento.exe
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\bin\Debug\Memento.pdb
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\obj\Debug\Memento.csprojAssemblyReference.cache
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\obj\Debug\Memento.exe
+C:\Users\SC9152\Downloads\Churanov_HomeWork\10. Memento\Memento\obj\Debug\Memento.pdb
